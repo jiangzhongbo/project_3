@@ -1,0 +1,20 @@
+Hello Kassymkhan,
+
+You've requested access to the FERG-DB stylized character dataset.
+
+Your access information:
+
+Download the FERG-DB dataset from our website:
+Full resolution (768x768) : http://grail.cs.washington.edu/projects/deepexpr/FERG_DB.zip
+Reduced size (256x256) : http://grail.cs.washington.edu/projects/deepexpr/FERG_DB_256.zip
+
+Password: UWFERGdb2016
+
+
+The README.txt file gives more details about the database.
+
+Please email us if you have any questions regarding the database or the project.
+
+Sincerely,
+
+FERG-DB Team
